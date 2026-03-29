@@ -32,7 +32,7 @@
     "/scratch/",
     "/tools/ReleaseEngineering/",
     "/policies/",
-    "Scratch.sln",
+    "Scratch.sln"
   ],
   "SuffixFilters": [
     ".dbb",
